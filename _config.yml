@@ -45,7 +45,7 @@ topics:
      image_url: https://cdn2.iconfinder.com/data/icons/talking-speech-discussion-presentation/512/N_F009_09_TalkingArtboard_1_copy_4-512.png
 
    - name: CV
-     web_url: http://anniehelms.github.io/cv
+     web_url: <a href="/files/Helms_CV.pdf" download="Helms_CV_2_22.pdf">
      image_url: https://cdn2.iconfinder.com/data/icons/business-and-finance-369/30/resume_business_cv_work_job_curriculum-_10-512.png
 
 projects:
