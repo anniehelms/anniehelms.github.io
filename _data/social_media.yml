@@ -34,7 +34,7 @@ linkedin:
   name: LinkedIn
   profile_url_prefix: https://www.linkedin.com/in/
   share_url_prefix: https://www.linkedin.com/shareArticle?mini=true&url=
-  icon_svg: '<svg height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18"><path d="M3.94 2A2 2 0 1 1 2 0a2 2 0 0 1 1.94 2zM4 5.48H0V18h4zm6.32 0H6.34V18h3.94v-6.57c0-3.66 4.77-4 4.77 0V18H19v-7.93c0-6.17-7.06-5.94-8.72-2.91z" fill="#959da5"/></svg>'
+  icon_svg: '<svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18"><path d="M3.94 2A2 2 0 1 1 2 0a2 2 0 0 1 1.94 2zM4 5.48H0V18h4zm6.32 0H6.34V18h3.94v-6.57c0-3.66 4.77-4 4.77 0V18H19v-7.93c0-6.17-7.06-5.94-8.72-2.91z" fill="#959da5"/></svg>'
 
 mastodon:
   name: Mastodon
@@ -49,9 +49,8 @@ medium:
 orcid:
   name: ORCID
   profile_url_prefix: https://www.orcid.org/
-  icon_svg: '<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path d="M16 0c-8.839 0-16 7.161-16 16s7.161 16 16 16c8.839 0 16-7.161 16-16s-7.161-16-16-16zM9.823 5.839c0.704 0 1.265 0.573 1.265 1.26 0 0.688-0.561 1.265-1.265 1.265-0.692-0.004-1.26-0.567-1.26-1.265 0-0.697 0.563-1.26 1.26-1.26zM8.864 9.885h1.923v13.391h-1.923zM13.615 9.885h5.197c4.948 0 7.125 3.541 7.125 6.703 0 3.439-2.687 6.699-7.099 6.699h-5.224zM15.536 11.625v9.927h3.063c4.365 0 5.365-3.312 5.365-4.964 0-2.687-1.713-4.963-5.464-4.963z"/>
-</svg>'
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" aria-label="Orcid" role="img" viewBox="0 0 512 512"><rect
+width="512" height="512" rx="15%" fill="#fff"/><circle cx="256" cy="256" r="256" fill="#a6ce39"/><path d="m173 372h-31v-214h31zm45-214h83c79 0 114 57 114 107 0 55-43 107-114 107h-84zm31 187h49c70 0 86-53 86-79 0-43-27-79-87-79h-47zm-71-231c0 11-9 20-20 20s-20-9-20-20a20 20 0 0 1 20-20c11 0 20 9 20 20z" fill="#fff"/></svg>'
 
 stackoverflow:
   name: Stack Overflow
