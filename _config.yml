@@ -38,11 +38,11 @@ social_media:
 
 topics:
    - name: Research
-     web_url: http://anniehelms.github.io/research/
+     web_url: https://anniehelms.github.io/research/
      image_url: https://cdn1.iconfinder.com/data/icons/journalist-4/64/recorder-voice-sound-audio-digital-512.png
 
    - name: Teaching & Mentorship
-     web_url: http://anniehelms.github.io/teaching/
+     web_url: https://anniehelms.github.io/teaching/
      image_url: https://cdn2.iconfinder.com/data/icons/talking-speech-discussion-presentation/512/N_F009_09_TalkingArtboard_1_copy_4-512.png
 
    - name: CV
